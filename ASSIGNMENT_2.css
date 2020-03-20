@@ -1,0 +1,32 @@
+#h{
+    font-size: 36px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #D35400;
+    background-color:  #D0D3D4;
+}
+
+#H1{
+    font-size: 36px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkcyan;
+    background-color:#5DADE2;
+}
+
+#Table{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 18px;
+  color:#717D7E;
+  background-color: #ECF0F1;
+  padding: 60px;
+  margin-top: 110px;
+}
+
+#r1{
+    color: crimson;
+    background-color: #F1C40F;
+}
+
+#r2{
+    color: crimson;
+    background-color: #F1C40F;
+}
